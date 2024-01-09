@@ -12,15 +12,15 @@ https://www.mongodb.com/try/download/community
 
 >Now run the following commands in first terminal
 
- >under the  teminal type cd server
+ >Under the  teminal type cd server
  
- >then under server terminal type Npm start
+ >Then under server terminal type Npm start
 
 >Now run these commands in second terminal i.e in the client terminal
 
->type cd client
+>Type cd client
 
->int the client to install node modules to run the website type " Npm install "
+>In the client to install node modules to run the website type " Npm install "
 
 >Now at last to start the website under the client terminal type Npm run dev
 
