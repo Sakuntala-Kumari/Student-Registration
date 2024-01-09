@@ -1,4 +1,5 @@
-********************************************************** ENSURE TO FOLLOW ALL THE STEPS BEFORE RUNNING THE APP ************************************************
+************************************* ENSURE TO FOLLOW ALL THE STEPS BEFORE RUNNING THE APP ****************************
+
 Download or clone the repository
 Install mongoDB along with mangoDB compass from the link provided ..
 https://www.mongodb.com/try/download/community
